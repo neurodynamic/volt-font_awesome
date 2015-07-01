@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["developer@neurodynamic.io"]
   spec.summary       = %q{Gem for including font-awesome in a project using the Volt framework.}
   spec.description   = %q{}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/neurodynamic/volt-font_awesome"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
